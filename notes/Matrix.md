@@ -77,3 +77,5 @@ void setSinCos (float sinValue,     // 旋转角度的sin值
 
 ![image](../imgs/matrix/in_matrix.png)
 
+
+参考： [安卓自定义View进阶-Matrix详解](http://www.gcssloop.com/customview/Matrix_Method)
